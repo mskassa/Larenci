@@ -453,7 +453,7 @@ Busines();
 function close() {
     let winEco = document.getElementById('win-eco');
     let winStan = document.getElementById('win-stan');
-    let winStanP = document.getElementById('win-StanP');
+    let winStanP = document.getElementById('win-stanP');
     let winKids = document.getElementById('win-kids');
     let winNight = document.getElementById('win-night');
     let winBus = document.getElementById('win-bus');
